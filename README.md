@@ -1,5 +1,6 @@
 # Aplikasi-Baca-Komik
 Aplikasi yang berisi komik jepang, cina dan korea
+<img src="https://drive.google.com/uc?export=view&id=1UXx4Ph4Xkx84MMuqEMb0rpQN7lvgyo8k" width="350" height="200">
 <h3>Referensi API</h3>
 <a href = "https://github.com/febryardiansyah/manga-api?fbclid=IwAR3EWvDL4-sAkT206fkuwMh3YC87LJ8WFwYsxV_PgDDn5tnqJ6DcKq-W5vg">Link APi</a> 
 <h2>Screenshots</h2>

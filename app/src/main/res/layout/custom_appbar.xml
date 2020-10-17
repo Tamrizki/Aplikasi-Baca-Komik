@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingVertical="10dp"
+    android:background="@color/colorWhite">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingHorizontal="10dp">
+        <EditText
+            android:id="@+id/etSearch"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:paddingHorizontal="20dp"
+            style="@style/typoNormal"
+            android:textColor="@color/colorDarkBlue"
+            android:textColorHint="@color/colorDarkGrey"
+            android:hint="Cari Manga ..."
+            android:background="@drawable/custom_bg_circle20dp"/>
+        <ImageButton
+            android:id="@+id/ibSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|end"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/icon_search_black_27dp"/>
+    </LinearLayout>
+</androidx.appcompat.widget.Toolbar>

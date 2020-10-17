@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/custom_bg_genre"
+    android:layout_marginVertical="5dp"
+    android:paddingHorizontal="15dp"
+    android:paddingVertical="5dp">
+    <TextView
+        android:id="@+id/tvGenre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/typoSmall"
+        android:singleLine="true"
+        android:textColor="@color/colorDarkBlue"
+        android:text="Genre"/>
+</RelativeLayout>

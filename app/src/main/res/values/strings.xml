@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Komik</string>
+    <string name="text_genre">Genre</string>
+    <string name="text_recomend">Recomended</string>
+    <string name="text_view_all">View All</string>
+    <string name="text_list_komik">List Komik</string>
+    <string name="text_list_chapter">List Chapter</string>
+    <string name="text_next">Next</string>
+    <string name="text_list_recomend">List Manga Recomended</string>
+    <string name="msg_wait">Mohon tunggu...</string>
+</resources>

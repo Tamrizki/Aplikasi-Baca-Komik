@@ -1,7 +1,7 @@
 # Aplikasi-Baca-Komik
 Aplikasi yang berisi komik jepang, cina dan korea
 <h3>Referensi API</h3>
-<a href = "https://github.com/bachors/Al-Quran-ID-API?fbclid=IwAR2lPEXmqQA2hw6d0rj-cibvh2cJuIaVJjruI6K96PpQjx1WTU5gfb35LQ4">Link APi</a> 
+<a href = "https://github.com/febryardiansyah/manga-api?fbclid=IwAR3EWvDL4-sAkT206fkuwMh3YC87LJ8WFwYsxV_PgDDn5tnqJ6DcKq-W5vg">Link APi</a> 
 <h2>Screenshots</h2>
 <div style="display:'flex'; align-items:'center';">
 <img src="https://drive.google.com/uc?export=view&id=1-7F4OyVBTXfygIvdvz9TjVO8L3jjMYPh" width="200" height="350">
